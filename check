@@ -1,0 +1,3 @@
+#! /bin/bash
+
+exec aspell --lang=en-GB check "$@"
